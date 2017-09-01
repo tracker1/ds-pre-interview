@@ -1,0 +1,14 @@
+{
+  "name": "promise-tests",
+  "version": "0.0.1",
+  "description": "a take home test for CSAA candidates ",
+  "main": "index.test.js",
+  "author": "Brant Stuns",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
